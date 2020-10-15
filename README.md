@@ -1,4 +1,12 @@
-### Hi there 👋
+### Olá 👋
+
+Meu nome é Diogo e sou desenvolvedor web com foco em Javascript.
+
+### Links
+
+- [Blog](https://dio.dev)
+- [Twitter](https://twitter.com/imaginamundo)
+- [Instagram](https://www.instagram.com/fotografolixo/)
 
 <!--
 **imaginamundo/imaginamundo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
