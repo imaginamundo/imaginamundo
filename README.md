@@ -5,7 +5,6 @@ Meu nome é Diogo e sou desenvolvedor web com foco em Javascript.
 ### Links
 
 - [Blog](https://dio.dev)
-- [Twitter](https://twitter.com/imaginamundo)
 - [Instagram](https://www.instagram.com/fotografolixo/)
 
 <!--
